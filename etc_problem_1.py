@@ -10,3 +10,4 @@ for i in range(n):
         num = num % len(stack)
     answer.append(str(stack.pop(num)))
 print("<", ", ".join(answer)[:], ">", sep = '')
+#변경1
