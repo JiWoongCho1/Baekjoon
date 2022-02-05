@@ -1,3 +1,6 @@
+#문제 : https://www.acmicpc.net/problem/1929
+#에레토스테네스의 체 : 다수 소수 판별식
+#그 수를 소수 판별하는 것이 아니라 수의 제곱근까지 판별해도 됨.
 def isPrime(num):
     if num == 1:
         return False
