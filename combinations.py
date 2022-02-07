@@ -1,3 +1,5 @@
+#문제 : https://www.acmicpc.net/problem/2004
+#주의할 점: factorial 쓰면은 시간초과 남.
 from math import factorial
 import sys
 
