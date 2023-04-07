@@ -12,4 +12,4 @@ for i in range(n):
     lcm = A * B // gcd
     print(lcm)
 
-#푼 방식 : 유클리드 호제법
+#푼 방식 : 유클리드 호제법  github 커밋
