@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a21683a-96fe-4a3b-9a35-bfd1ed01da78" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/구현/baek_10871.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/combinations.py" beforeDir="false" afterPath="$PROJECT_DIR$/baek_2004.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gcd.py" beforeDir="false" afterPath="$PROJECT_DIR$/gcd.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,7 @@
     <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/구현/README.md" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/구현/baek_10871.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -66,7 +65,7 @@
       <recent name="C:\Users\choij\PycharmProjects\pythonProject" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.baek_9613">
+  <component name="RunManager" selected="Python.baek_10871">
     <configuration name="9_12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,19 +87,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
+    <configuration name="baek_10871" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/travel" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="C:\Users\choij\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/구현" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/travel/__init__.py" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/구현/baek_10871.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,18 +195,18 @@
     <list>
       <item itemvalue="Python.main" />
       <item itemvalue="Python.9_12" />
-      <item itemvalue="Python.__init__" />
       <item itemvalue="Python.baek_1934" />
       <item itemvalue="Python.etc_problem_1" />
       <item itemvalue="Python.baek_9613" />
+      <item itemvalue="Python.baek_10871" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.baek_10871" />
         <item itemvalue="Python.baek_9613" />
         <item itemvalue="Python.baek_1934" />
         <item itemvalue="Python.9_12" />
         <item itemvalue="Python.etc_problem_1" />
-        <item itemvalue="Python.__init__" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +261,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680931411885</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="first commit">
+      <created>1681037229929</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681037229930</updated>
+    </task>
+    <task id="LOCAL-00008" summary="first commit">
+      <created>1681037302385</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681037302385</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
