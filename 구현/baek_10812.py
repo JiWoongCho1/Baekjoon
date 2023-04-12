@@ -1,4 +1,4 @@
-n, m = map(int, input().split())
+n, m =  map(int, input().split())
 
 pocket = [i for i in range(1, n+1)]
 
