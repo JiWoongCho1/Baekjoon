@@ -16,3 +16,4 @@ while True:
 
     else:
         print('{} is NOT perfect.'.format(n))
+
