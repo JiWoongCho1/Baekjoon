@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a21683a-96fe-4a3b-9a35-bfd1ed01da78" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/정렬/baek_1181.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/정렬/baek_000.py" beforeDir="false" afterPath="$PROJECT_DIR$/정렬/baek_000.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +54,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/choij/PycharmProjects/baekjjoon",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "configurable.group.project"
   }
 }]]></component>
   <component name="PyConsoleOptionsProvider">
@@ -74,7 +76,7 @@
       <recent name="C:\Users\choij\PycharmProjects\pythonProject" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.calibration">
+  <component name="RunManager">
     <configuration name="baek25305" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -874,17 +876,18 @@
       <method v="2" />
     </configuration>
     <configuration name="calibration" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="baekjjoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\choij\anaconda3\python.exe" />
+      <option name="SDK_HOME" value="C:\Users\choij\PycharmProjects\pythonProject\venv\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.9 (pythonProject)" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/CameraCalibration" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
       <option name="SCRIPT_NAME" value="$USER_HOME$/CameraCalibration/calibration.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -1221,7 +1224,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682142392704</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="first commit">
+      <created>1682159434133</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1682159434134</updated>
+    </task>
+    <task id="LOCAL-00037" summary="first commit">
+      <created>1682159524612</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1682159524612</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
