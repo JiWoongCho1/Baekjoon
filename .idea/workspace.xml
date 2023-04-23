@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a21683a-96fe-4a3b-9a35-bfd1ed01da78" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/자료구조/baek_14425.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/자료구조/baek_7785.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/정렬/baek_18870.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/자료구조/baek_1620.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/정렬/baek_000.py" beforeDir="false" afterPath="$PROJECT_DIR$/이분탐색/baek_10815.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1247,7 +1244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682229416463</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="first commit">
+      <created>1682257583838</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1682257583838</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
