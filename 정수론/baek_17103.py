@@ -4,16 +4,6 @@ m = max(nums)
 
 prime = [False, False] + [True] * (m-1)
 
-def isPrime(num):
-    if num == 1:
-        return False
-    else:
-        for i in range(int(num**0.5) + 1):
-            num % i == 0
-            return False
-        return True
-
-
 for i in range(2, int(m**0.5) + 1):
     if prime[i]:
         for j in range(i+i, m+1, i):
