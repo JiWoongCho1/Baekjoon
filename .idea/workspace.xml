@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a21683a-96fe-4a3b-9a35-bfd1ed01da78" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/큐/baek_11866.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/큐/baek_1966.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -978,13 +978,6 @@
       <option name="presentableId" value="Default" />
       <updated>1628261046786</updated>
     </task>
-    <task id="LOCAL-00002" summary="first commit">
-      <created>1680878288058</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1680878288058</updated>
-    </task>
     <task id="LOCAL-00003" summary="first commit">
       <created>1680878303124</created>
       <option name="number" value="00003" />
@@ -1321,7 +1314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683640426330</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="first commit">
+      <created>1683896042717</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1683896042717</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
